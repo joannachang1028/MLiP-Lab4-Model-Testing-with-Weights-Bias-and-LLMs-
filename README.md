@@ -14,7 +14,7 @@ Your goal is to act like an ML engineer preparing a model for deployment: justif
 For every slice you log, keep a short note in the notebook (e.g., the `saved_slice_notes` list) so the TA can see your takeaways without rerunning the code.
 
 ## Getting started
-- Clone this repository (already done if you are reading the notebook).
+- Clone this repository: https://github.com/nikitachaudharicodes/cmu-mlip-model-testing-lab/tree/main
 - Open `lab4.ipynb` in your preferred notebook environment (Jupyter, Colab, VS Code, etc.).
 - Run the cells sequentially. The notebook is split into seven steps that mirror the deliverables above.
 
