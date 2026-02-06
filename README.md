@@ -1,5 +1,5 @@
 # CMU - Machine Learning in Production 
-# Model Testing with Weightss & Bias and LLMs
+# Model Testing with Weights & Bias and LLMs
 
 ## Task: slice-based model evaluation in W&B
 
